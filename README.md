@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Zakrzak2
+- 👀 I’m interested in DEV(C# , C++ , PY , JAVA[ONLY EDIT] )
+- 📘 I can edit minecraft plugin , make script to unity or other language for example (C# , C++ or PY)
+- 🌱 I’m currently learning (LUA)
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me Write to me ? -  message or comment and I will answer
