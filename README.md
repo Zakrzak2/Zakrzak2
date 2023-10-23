@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zakrzak2
-- 👀 I’m interested in DEV(Java Script , Html , Css)
-- 🌱 I’m currently learning (Java Script)
+- 👀 I’m interested in DEV(Java Script , Html , Css, react)
+- 🌱 I’m currently learning (Java Script, react)
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me Write to me ? -  message or comment and I will answer
+- 📫 How to reach me Write to me ? -  kontakt@web-code.com.pl
